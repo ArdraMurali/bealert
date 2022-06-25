@@ -18,7 +18,7 @@ $rowsIn = $qryIn->fetch();
 
 <head>
     <meta charset="utf-8">
-    <title><?php echo $title ?> | BELAERT ADMIN PANEL</title>
+    <title><?php echo $title ?> | BELAERT ADMIN PANEL </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
