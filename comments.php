@@ -47,6 +47,24 @@ $commentCount = $qrySearch->rowcount();
                 </div>
             </div>
         </div>
+        <div class="page-title">
+            <div class="title-heading">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="page-title-heading">
+                                <h1 class="h1-title">COMMENTS</h1>
+                            </div>
+                            <ul class="breadcrumbs">
+                                <li><a href="profile.php" title="">PROFILE</a></li>
+                                <li class="dot">/</li>
+                                <li>COMMENTS</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <section class="flat-row flat-contact-form">
             <div class="container">
                 <div class="col-12">
