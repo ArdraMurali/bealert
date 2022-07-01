@@ -88,6 +88,13 @@ $created_by = $user;
                                                 <input type="submit" value="SUBMIT" class="btn btn-success btn-lg">
                                             </div>
                                         </div>
+                                        
+                                        <div class="col-md-12 mt-2 pt-3 border-top text-center">
+                                            <div class="btn-group">
+                                                <input type="reset" value="RESET" class="btn btn-warning btn-lg">
+                                                <input type="submit" value="SUBMIT" class="btn btn-success btn-lg">
+                                            </div>
+                                        </div>
                                     </div>
                                 </form>
                             </div>
