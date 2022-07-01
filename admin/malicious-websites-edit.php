@@ -90,6 +90,15 @@ $rows = $qry->fetch();
                                                 <input type="file" class="form-control form-control-lg mt-2" name="image">
                                             </div>
                                         </div>
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label class="text-uppercase">IMAGE/SCREENSHOT</label>
+                                                <div class="col-12 p-0 rounded" style="max-height: 500px;overflow:auto">
+                                                    <img src="../files/<?php echo $rows['image'] ?>" class="w-100 rounded">
+                                                </div>
+                                                <input type="file" class="form-control form-control-lg mt-2" name="image">
+                                            </div>
+                                        </div>
                                         <div class="col-md-12 mt-2 pt-3 border-top text-center">
                                             <div class="btn-group">
                                                 <?php if ($rows['created_by'] != $user) { ?>
