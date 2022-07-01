@@ -87,6 +87,7 @@ $searchCount = $qrySearch->rowcount();
             </div>
         </section>
         <?php include("include/footer.php"); ?>
+        <?php include("include/footer.php"); ?>
     </div>
     <script type="text/javascript" src="javascript/tether.min.js"></script>
     <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
